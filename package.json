@@ -1,0 +1,17 @@
+{
+  "name": "Fizzbuzz_in_CoffeeScript",
+  "version": "1.0.0",
+  "description": "Fizzbuzz in Coffee Script",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^1.9.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
